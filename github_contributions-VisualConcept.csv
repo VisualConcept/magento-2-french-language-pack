@@ -2,3 +2,7 @@
 "Add to Wish List","Ajouter à la liste d'envies",module,Magento_Catalog
 "Search entire store here...","Rechercher ...",module,Magento_Search
 "You're reviewing:","Donnez votre avis :",module,Magento_Review
+"Your Rating","Votre note",module,Magento_Review
+"Review by","Commenté par",module,Magento_Review
+"Product Rating","Note du produit",module,Magento_Review
+"Product Rating:","Note du produit :",module,Magento_Review
