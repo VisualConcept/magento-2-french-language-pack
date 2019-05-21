@@ -1,4 +1,4 @@
 "As low as","A partir de",module,Magento_Bundle
 "Add to Wish List","Ajouter à la liste d'envies",module,Magento_Catalog
 "Search entire store here...","Rechercher ...",module,Magento_Search
-"You're reviewing:","Donnez votre avis",module,Magento_Review
+"You're reviewing:","Donnez votre avis :",module,Magento_Review
